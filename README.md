@@ -1,7 +1,7 @@
 # Getting Started With The Vue Timeline Component
-A quick-start Vue project that shows how to create and configure the Syncfusion React Timeline component. Also learn how to add, align, and disable items, change the orientation, and reverse the timeline.
+A quick-start Vue project that shows how to create and configure the Syncfusion Vue Timeline component. Also learn how to add, align, and disable items, change the orientation, and reverse the timeline.
 
-The React Timeline component enables users to display a series of data chronologically, providing a visually compelling and user-friendly experience. This showcases user activities, tracking progress, narrating historical timelines, and more. The Timeline component has two orientation modes: Horizontal: Displays items side-by-side. Vertical: Default orientation that displays items stacked. 
+The Vue Timeline component enables users to display a series of data chronologically, providing a visually compelling and user-friendly experience. This showcases user activities, tracking progress, narrating historical timelines, and more. The Timeline component has two orientation modes: Horizontal: Displays items side-by-side. Vertical: Default orientation that displays items stacked. 
 
 This component enables users to align the items’ content and opposite content as follows: Before: Align the item content to the left (or top for horizontal orientation) and the opposite content to the right (or bottom). After: This default alignment aligns the item content to the right (or bottom for horizontal orientation) and the opposite content to the left (or top). Alternate: Align the content of the first item to the right and the opposite content to the left, and vice versa for subsequent items. Alternate Reverse: Align the content of the first item to the left and the opposite content to the right, and vice versa for subsequent items.
 
